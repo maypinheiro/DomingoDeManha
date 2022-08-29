@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\DomingoDeManha\bin\Debug\netcoreapp3.1\DomingoDeManha.exe
+C:\Users\017586631\source\repos\DomingoDeManha\bin\Debug\netcoreapp3.1\DomingoDeManha.deps.json
+C:\Users\017586631\source\repos\DomingoDeManha\bin\Debug\netcoreapp3.1\DomingoDeManha.runtimeconfig.json
+C:\Users\017586631\source\repos\DomingoDeManha\bin\Debug\netcoreapp3.1\DomingoDeManha.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\DomingoDeManha\bin\Debug\netcoreapp3.1\DomingoDeManha.dll
+C:\Users\017586631\source\repos\DomingoDeManha\bin\Debug\netcoreapp3.1\DomingoDeManha.pdb
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.AssemblyInfo.cs
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.dll
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.pdb
+C:\Users\017586631\source\repos\DomingoDeManha\obj\Debug\netcoreapp3.1\DomingoDeManha.genruntimeconfig.cache
